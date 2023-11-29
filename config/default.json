@@ -1,0 +1,4 @@
+{
+    "environment":"local",
+    "DB_STRING":"mongodb+srv://Nidhi:Nidhigarg4311@cluster0.mwxaexd.mongodb.net/?retryWrites=true&w=majority"
+}
